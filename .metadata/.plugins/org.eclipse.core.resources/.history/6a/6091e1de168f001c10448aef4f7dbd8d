@@ -1,0 +1,5 @@
+package com.foodboxspring.config;
+
+public class ConfigCtrl {
+
+}

@@ -1,0 +1,5 @@
+package com.foodboxspring.controller;
+
+public class AdminController {
+
+}
