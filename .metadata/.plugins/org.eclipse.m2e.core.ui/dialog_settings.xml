@@ -6,6 +6,7 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\Soni\Desktop\CapstoneProject"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
@@ -29,12 +30,15 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.fbtest"/>
 			<item value="foodboxtesting.testing"/>
 		</list>
 		<list key="groupId">
+			<item value="com"/>
 			<item value="foodboxtesting"/>
 		</list>
 		<list key="artifactId">
+			<item value="fbtest"/>
 			<item value="testing"/>
 		</list>
 		<list key="projectNameTemplate">

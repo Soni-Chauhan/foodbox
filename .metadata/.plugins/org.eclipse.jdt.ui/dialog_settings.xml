@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-1.8"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\Soni\Downloads\95\95\selenium-java-3.141.59"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="C:\Users\Soni\Downloads\95\95"/>
 	<section name="JavaElementSearchActions">
 	</section>
 	<section name="completion_proposal_size">
@@ -28,5 +28,11 @@
 	</section>
 	<section name="BuildPathsPropertyPage">
 		<item key="pageIndex" value="3"/>
+	</section>
+	<section name="org.eclipse.jdt.internal.ui.dialogs.PackageSelectionDialog">
+		<item key="x" value="161"/>
+		<item key="y" value="21"/>
+		<item key="width" value="398"/>
+		<item key="height" value="438"/>
 	</section>
 </section>
