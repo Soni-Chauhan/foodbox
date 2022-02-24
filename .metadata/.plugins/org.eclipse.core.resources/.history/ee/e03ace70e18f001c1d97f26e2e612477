@@ -1,5 +1,0 @@
-package com.foodboxspring.exception;
-
-public class ResourceNotFoundException {
-
-}
